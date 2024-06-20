@@ -1,0 +1,5 @@
+#install all the libraries
+
+pygame
+pymediainfo
+ffpyplayer
